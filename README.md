@@ -1,4 +1,4 @@
-## Foundations II: JavaScript 
+## Foundations II: JavaScript
 ### Lab 2, Beginning Track
 
 1. Make sure you're logged in to your account on GitHub.
@@ -15,3 +15,5 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
+props to this explanation of Math.math.apply: http://stackoverflow.com/questions/1379553/how-might-i-find-the-largest-number-contained-in-a-javascript-array
+Big thanks to Jason for his help.
