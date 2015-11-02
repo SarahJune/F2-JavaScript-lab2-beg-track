@@ -205,6 +205,10 @@ console.log(variablify(myString));
 // TODO: write three more assertions
 assert(variablify('one two three') === 'oneTwoThree',
   'variablify(\'one two three\')');
+assert(variablify('KunG fOO maSTEr') === 'kungFooMaster',
+  'variablify(\'KunG fOO maSTEr\')');
+assert(variablify('the best variable name') === 'theBestVariableName',
+  'variablify(\'the best variable name\')');
 
 //*********************************************************
 // PROBLEM 4: Cleanup: 10 points
